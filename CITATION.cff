@@ -1,8 +1,15 @@
 cff-version: 1.2.0
 title: Skoolia School Management System
-abstract: Cloud-based school management and student information system for modern educational institutions.
-url: https://skoolia.io
+abstract: Cloud-based school management system and student information system with an AI timetable generator, for private and international K-12 schools.
+url: https://skoolia.com
+authors:
+  - name: Barcids Limited
+    city: Cork
+    country: IE
+    website: https://skoolia.com
 keywords:
   - school management system
   - student information system
+  - AI timetable generator
+  - school scheduling software
   - education software
